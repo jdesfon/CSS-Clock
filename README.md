@@ -1,4 +1,4 @@
-#Clock made with HTML CSS and JS
+# Clock made with HTML CSS and JS
 
 Using Compass/Sass
 
